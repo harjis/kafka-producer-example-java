@@ -1,0 +1,10 @@
+{
+     "type": "record",
+     "namespace": "com.example",
+     "name": "Test",
+     "version": "1",
+     "fields": [
+       { "name": "id", "type": "string", "doc": "ID" },
+       { "name": "name", "type": "string", "doc": "Name" }
+     ]
+}
